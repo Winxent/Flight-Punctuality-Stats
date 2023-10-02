@@ -57,7 +57,7 @@ Cleaned Datasets:https://docs.google.com/spreadsheets/d/1OHK0vSzopM_YVklA4jY7IJB
 # Data Analysis
 Different data analysis strategies are used to analyse the dataset provided: 
 
-#### 1. Data Aggregation:
+### 1. Data Aggregation:
 Helps describe the data, and generate insight from the characteristic of the data.
 A customer might want to look into the performance in terms of punctuality based on different flight lines, punctuality and data should aggregate based on flight lines.
 
@@ -70,16 +70,33 @@ From the above shape and size table of the dataset we can see general max and mi
 
 From the above two bar charts we can see the frequency of airports and airlines for 2018 Jan
 
-#### 2. Summary Statistic:
+### 2. Summary Statistic:
 Summarized the large datasets into insightful numbers and gist of information about the data,
 We can understand the general situation, make decisions and monitor the changes.
 
-1. Measures of location:
-	Mean (Average of a data set), Median (middle value of the data set), Mode (most repeated number),
-2. Measures of spread:
-	To understand the spread and distribution of data. and to find outliers.
-3. Graphics and charts:
-	Dash board 
+![image](https://github.com/Winxent/Flight-Punctuality-Stats/assets/146320825/3d09cc79-4727-4f52-85fc-2e9cd43e09c0)
+
+#### 1. Measures of location:
+Mean (Average of a data set), Median (middle value of the data set), Mode (most repeated number)
+	
+ 	Ans: The overall flight as a delay of 190mins with a median of 22mins. 
+  	Mode (Most occurrance) is no delay (0 mins) with 39 counts.
+#### 2. Measures of spread:
+To understand the spread and distribution of data. and to find outliers.
+
+	Ans: base on the interquartile, there are 29 airline outliers which has delay time more than 182 minutes (MAX IQR).
+
+Interquartile candlestick chart:
+
+<img width="546" alt="Screenshot 2023-10-02 at 10 34 28 PM" src="https://github.com/Winxent/Flight-Punctuality-Stats/assets/146320825/9ca07218-feb9-4784-a152-cdffbddf1e0c">
+
+<img width="549" alt="Screenshot 2023-10-02 at 10 34 47 PM" src="https://github.com/Winxent/Flight-Punctuality-Stats/assets/146320825/c4692bd1-e0c6-4b80-89ac-8d9051c20bf5">
+
+From the historgram, most of the flight airlines able to comply with no delay. We can also notice on some extreme outliers from the historgram with high positive skew.
+
+
+#### 3. Graphics and charts:
+	Ans: Dash board 
 
 ![rainbow](https://github.com/Winxent/portfolio/assets/146320825/5dc438d2-e138-4db0-97a0-e5ae8c3473e8)
 
