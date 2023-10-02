@@ -1,7 +1,7 @@
 # 2018 Jan Flight Punctuality Stats
 Punctuality statistics provide valuable insights into the reliability and performance of flights and airlines. Travelers can use this information to make informed decisions about their travel plans, and airlines can use it to improve their operations and enhance the passenger experience.
 
-Goal: To investigate 2018 Jan flight punctuality statistic and provide analysis, insights and visualisation.
+## Goal: To investigate 2018 Jan flight punctuality statistic and provide analysis, insights and visualisation.
 
 ![rainbow](https://github.com/Winxent/portfolio/assets/146320825/5dc438d2-e138-4db0-97a0-e5ae8c3473e8)
 
@@ -35,20 +35,20 @@ The below checklist is done for data cleaning using (google sheet):
 ##### B – Handle missing values
 	Ans: There are no missing values
 ##### C – Correct data formats
-  Ans: Change run_date to date time data type, others no issue
+	Ans: Change run_date to date time data type, others no issue
 ##### D – Drop irrelevant columns
-  Ans: No irrelevant column
+	Ans: No irrelevant column
 ##### E – Fix inconsistent data entry
-  Ans: No inconsistent data entry
+	Ans: No inconsistent data entry
 ##### F – Trim whitespaces
 
   <img width="306" alt="image5" src="https://github.com/Winxent/Flight-Punctuality-Stats/assets/146320825/2a7e12e8-3d2e-4d21-9f81-39c4243f55e1">
 
-  Ans: Trimming some white spaces using google clean-up suggestion
+	Ans: Trimming some white spaces using google clean-up suggestion
 ##### G – Correct spelling errors
-  Ans: no wrong spelling
+	Ans: no wrong spelling
 ##### H – Correct numerical errors
-  Ans: no numerical errors
+	Ans: no numerical errors
 
 Cleaned Datasets:https://docs.google.com/spreadsheets/d/1OHK0vSzopM_YVklA4jY7IJBB2aoWP2rZ5SEGahc22Pk/edit?usp=sharing
 
