@@ -119,8 +119,9 @@ The last page shows the summary of the flight delay for each airline and the per
 ![rainbow](https://github.com/Winxent/portfolio/assets/146320825/5dc438d2-e138-4db0-97a0-e5ae8c3473e8)
 
 # Summary
-	From the punctuality analysis and visualisation, there are a lot of airlines that comply with zero delay as well as many airlines that has extreme cases of delay. From the Visualisation we can also notice that airlines with many flight frequency can also caused much delay. This might be due to overpressure and overwork of the stuff align with tight schedule. Overall 2018 Jan performance is better than 2017 Jan punctuality performance with the average delay time of 13.29 mins reduce to 11.57 mins.
- 	Recommendations:  Traverlers should plan ahead and do a comparison study to avoid missing interconnecting flight due to long flight delay. Flight airline should also reduce their flight frequnecy to prevent overwork from the staff and delay of flgiht to preserve their reputation. 
+From the punctuality analysis and visualisation, there are a lot of airlines that comply with zero delay as well as many airlines that has extreme cases of delay. From the Visualisation we can also notice that airlines with many flight frequency can also caused much delay. This might be due to overpressure and overwork of the stuff align with tight schedule. Overall 2018 Jan performance is better than 2017 Jan punctuality performance with the average delay time of 13.29 mins reduce to 11.57 mins.
+
+Recommendations:  Traverlers should plan ahead and do a comparison study to avoid missing interconnecting flight due to long flight delay. Flight airline should also reduce their flight frequnecy to prevent overwork from the staff and delay of flgiht to preserve their reputation. 
 
 
 
