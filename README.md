@@ -54,5 +54,33 @@ Cleaned Datasets:https://docs.google.com/spreadsheets/d/1OHK0vSzopM_YVklA4jY7IJB
 
 ![rainbow](https://github.com/Winxent/portfolio/assets/146320825/5dc438d2-e138-4db0-97a0-e5ae8c3473e8)
 
+# Data Analysis
+Different data analysis strategies are used to analyse the dataset provided: 
 
+#### 1. Data Aggregation:
+Helps describe the data, and generate insight from the characteristic of the data.
+A customer might want to look into the performance in terms of punctuality based on different flight lines, punctuality and data should aggregate based on flight lines.
 
+<img width="535" alt="Screenshot 2023-10-02 at 10 21 09 PM" src="https://github.com/Winxent/Flight-Punctuality-Stats/assets/146320825/85f95852-7eb0-43dc-aed1-1f85d6985d3c">
+
+From the above shape and size table of the dataset we can see general max and min of the data base on different categories. 
+
+<img width="549" alt="Screenshot 2023-10-02 at 10 26 49 PM" src="https://github.com/Winxent/Flight-Punctuality-Stats/assets/146320825/1bfcd36a-6256-4b50-afc0-703a5f85e36d">
+<img width="546" alt="Screenshot 2023-10-02 at 10 29 01 PM" src="https://github.com/Winxent/Flight-Punctuality-Stats/assets/146320825/51f088fa-e474-43d9-93b1-30cadacc0f6e">
+
+From the above two bar charts we can see the frequency of airports and airlines for 2018 Jan
+
+#### 2. Summary Statistic:
+Summarized the large datasets into insightful numbers and gist of information about the data,
+We can understand the general situation, make decisions and monitor the changes.
+
+1. Measures of location:
+	Mean (Average of a data set), Median (middle value of the data set), Mode (most repeated number),
+2. Measures of spread:
+	To understand the spread and distribution of data. and to find outliers.
+3. Graphics and charts:
+	Dash board 
+
+![rainbow](https://github.com/Winxent/portfolio/assets/146320825/5dc438d2-e138-4db0-97a0-e5ae8c3473e8)
+
+# Insights generated
