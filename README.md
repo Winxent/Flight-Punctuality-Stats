@@ -100,4 +100,27 @@ From the historgram, most of the flight airlines able to comply with no delay. W
 
 ![rainbow](https://github.com/Winxent/portfolio/assets/146320825/5dc438d2-e138-4db0-97a0-e5ae8c3473e8)
 
-# Insights generated
+# Dashboard
+A data story is created through Tableau using this dataset:
+https://public.tableau.com/shared/FWJS5T4CK?:display_count=n&:origin=viz_share_link
+
+<img width="865" alt="Screenshot 2023-10-02 at 10 47 57 PM" src="https://github.com/Winxent/Flight-Punctuality-Stats/assets/146320825/d48ce20b-0e70-445f-9ca1-f84e498b39f7">
+
+The first page shows the overview flight punctuality statistic for 2018 Jan 
+
+<img width="872" alt="Screenshot 2023-10-02 at 10 48 26 PM" src="https://github.com/Winxent/Flight-Punctuality-Stats/assets/146320825/cfb3edcb-4225-4b74-a746-fdc827a9267b">
+
+The 2nd page shows the punctuality performance for each airlines, in the order from worst to best.
+
+<img width="855" alt="Screenshot 2023-10-02 at 10 48 37 PM" src="https://github.com/Winxent/Flight-Punctuality-Stats/assets/146320825/a13f0c15-1389-4fd5-b9a3-b3fa41eba45a">
+
+The last page shows the summary of the flight delay for each airline and the performance comparison between Jan 2018 and Jan 2017.
+
+![rainbow](https://github.com/Winxent/portfolio/assets/146320825/5dc438d2-e138-4db0-97a0-e5ae8c3473e8)
+
+# Summary
+
+
+
+
+
