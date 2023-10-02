@@ -50,9 +50,9 @@ The below checklist is done for data cleaning using (google sheet):
 ##### H – Correct numerical errors
   Ans: no numerical errors
 
-
-
 Cleaned Datasets:https://docs.google.com/spreadsheets/d/1OHK0vSzopM_YVklA4jY7IJBB2aoWP2rZ5SEGahc22Pk/edit?usp=sharing
+
+![rainbow](https://github.com/Winxent/portfolio/assets/146320825/5dc438d2-e138-4db0-97a0-e5ae8c3473e8)
 
 
 
