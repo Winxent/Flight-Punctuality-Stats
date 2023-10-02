@@ -54,7 +54,7 @@ Cleaned Datasets:https://docs.google.com/spreadsheets/d/1OHK0vSzopM_YVklA4jY7IJB
 
 ![rainbow](https://github.com/Winxent/portfolio/assets/146320825/5dc438d2-e138-4db0-97a0-e5ae8c3473e8)
 
-# Data Analysis
+# Data Analysis (google Sheet)
 Different data analysis strategies are used to analyse the dataset provided: 
 
 ### 1. Data Aggregation:
@@ -100,7 +100,7 @@ From the historgram, most of the flight airlines able to comply with no delay. W
 
 ![rainbow](https://github.com/Winxent/portfolio/assets/146320825/5dc438d2-e138-4db0-97a0-e5ae8c3473e8)
 
-# Dashboard
+# Dashboard (Tableau)
 A data story is created through Tableau using this dataset:
 https://public.tableau.com/shared/FWJS5T4CK?:display_count=n&:origin=viz_share_link
 
